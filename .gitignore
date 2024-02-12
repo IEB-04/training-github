@@ -1,4 +1,2 @@
-build/
 *.txt
 !b.txt
-src/
