@@ -1,0 +1,14 @@
+.es {
+     font-size: xx-large;
+     display:flex;
+     justify-content: center;
+     height: fit-content;
+     width: fit-content;
+}
+h1 {
+    color: #333;
+    font-size: 2em;
+    font-weight: 500;
+    line-height: 1.1;
+    text-align: center;
+}
